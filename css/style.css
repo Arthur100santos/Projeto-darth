@@ -1,7 +1,10 @@
 .container{
-  border: 1px solid red;
   background-color: black;
   width: 900px;
+}
+.nav{
+    background-color: rgb(69, 76, 88);
+    padding: 1rem;
 }
 
 nav{
@@ -12,4 +15,11 @@ nav{
   color: antiquewhite;
   font-weight: 700;
   text-decoration: none;
+}
+main{
+    color: blanchedalmond;
+}
+footer p{
+    color: blanchedalmond;
+    text-align: center;
 }
